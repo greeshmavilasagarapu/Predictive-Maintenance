@@ -3,3 +3,13 @@ Unexpected failures of industrial equipment can lead to significant production d
 ## 📌 Live Demo
 
 🔗 [Predictive Maintenance App](https://predictive-maintenance-ruh7lwkqsru2qygxxabckx.streamlit.app/)
+## 📊 Model Visualizations
+
+### Dataset Sensor Trends
+![Sensor Trend](assets/sensor_trend.png)
+
+### Remaining Useful Life Prediction
+![RUL Prediction](assets/rul_prediction.png)
+
+### Engine Health Analysis
+![Health Score](assets/health_score.png)
