@@ -1,3 +1,5 @@
+# Predictive Maintenance of Industrial Equipment using Machine Learning
+
 Unexpected failures of industrial equipment can lead to significant production downtime, high repair costs, and safety hazards. Traditional maintenance strategies, such as reactive repairs or time-based preventive maintenance, are often inefficient and costly. This project proposes a machine learning-based predictive maintenance system that uses sensor data, operational parameters, and historical maintenance records to forecast equipment failures and estimate remaining useful life (RUL). By leveraging algorithms such as Random Forest, Gradient Boosting, and LSTM networks, the system identifies abnormal patterns and predicts failures before they occur. The model provides actionable insights and real-time alerts, enabling maintenance teams to schedule timely interventions, reduce unplanned downtime, optimize maintenance costs, and improve overall operational efficiency. This approach demonstrates the potential of AI in transforming industrial maintenance from reactive to predictive, ensuring safer and more reliable operations.
 
 ## 📌 Live Demo
